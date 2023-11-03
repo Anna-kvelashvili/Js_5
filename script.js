@@ -108,3 +108,7 @@ console.log(arr2.some(numberResults));
 let array5 = [2, 15, 10, 24];
 let lastResult = array5.splice(2, 1);
 console.log(array5);
+
+
+
+//ცოტა არეულად მიწერია რომელიც მემარტივა ჯერ ის გავაკეთე.2,6 და 15 ვერ გავაკეთე.
